@@ -19,8 +19,10 @@
 I am a second-year Information Technology undergraduate with a strong passion for **Cloud Computing and DevOps**, backed by solid object-oriented programming fundamentals in **Java**. I enjoy building practical software, learning modern deployment pipelines, and continuously improving my engineering skills.
 
 - 🎓 **Academics**: 2nd Year IT Undergraduate
-- 🛠️ **Currently Building**: A **Configurable SaaS Platform** — exploring dynamic configurations, modular architecture, and multi-tenant workflows.
-- 💡 **Learning Through This**: Role-based access control (RBAC), building REST APIs with Node.js, modern React state management, and Dockerizing environments.
+- 🛠️ **Currently Building**:
+  - **Configurable SaaS Platform** — exploring dynamic workflows, modular architecture, and multi-tenant systems.
+  - **Portfolio Website v2** — rebuilding my personal developer portfolio with modern UI design, responsiveness, and performance.
+- 💡 **Learning Through This**: Role-based access control (RBAC), building REST APIs with Node.js, React component design, and Dockerizing environments.
 - ☁️ **Passions**: Cloud platforms, DevOps culture, CI/CD automation, and Linux systems.
 - 🌱 **Technologies in Progress**: **Node.js**, **React**, **Expo**, **Docker**, and **AWS**.
 - 💬 **Ask me about**: Java, web development fundamentals, and my Cloud/DevOps learning journey.
@@ -56,10 +58,11 @@ I am a second-year Information Technology undergraduate with a strong passion fo
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Configurable SaaS Platform** *(WIP)* | `React` `Node.js` `Docker` | Multi-tenant platform exploring dynamic user configurations, access control, and containerization. |
+| **Portfolio Website v2** *(WIP)* | `React` `TailwindCSS` | Rebuilt modern personal developer portfolio showcasing projects, tech stack, and experience. |
 | **[Kickbots-Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `Embedded` `Hardware` | Microcontroller-based hardware & robotics project. |
 | **[Web-App](https://github.com/DeemanthaGunasekara/Web-App)** | `PHP` `Backend` | Full-stack web application exploring server-side architecture and data management. |
 | **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `Web` | Collaborative frontend interface development and modern UI practices. |
-| **[My-1st-portfolio](https://github.com/DeemanthaGunasekara/My-1st-portfolio)** | `HTML/CSS` `UI Design` | University portfolio website built to showcase responsive web foundations. |
+| **[My-1st-portfolio](https://github.com/DeemanthaGunasekara/My-1st-portfolio)** | `HTML/CSS` `Archive` | My first university portfolio website built to showcase web foundations. |
 
 ---
 
