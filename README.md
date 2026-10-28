@@ -69,7 +69,7 @@ I am a second-year Information Technology undergraduate with a strong passion fo
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DeemanthaGunasekara&theme=github_dark&hide_border=true&background=0D1117&v=2" alt="GitHub Streak & Total Contributions" />
+  <img src="./profile/streak.svg" alt="GitHub Streak & Total Contributions" />
 </div>
 
 <br/>
