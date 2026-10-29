@@ -75,8 +75,8 @@ I am a second-year Information Technology undergraduate with a strong passion fo
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeemanthaGunasekara&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Deemantha's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeemanthaGunasekara&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DeemanthaGunasekara&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Deemantha's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DeemanthaGunasekara&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
