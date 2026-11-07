@@ -2,12 +2,13 @@
 
 # Hi there, I'm Deemantha Gunasekara 👋
 
-**2nd Year IT Undergraduate | Aspiring Cloud & DevOps Engineer**
+### *I learn by building things that actually work.*
 
-*Passionate about Cloud Computing, CI/CD, and building modern, scalable applications.*
+**IT Undergraduate @ University of Moratuwa | Software Engineering & Cloud / DevOps**
 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemanthagunasekara.vercel.app)
+[![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square&logoColor=black&labelColor=14151A)](https://deemanthagunasekara.vercel.app/cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deemantha-gunasekara)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeemanthaGunasekara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekarapdvp@gmail.com)
 
 </div>
@@ -16,57 +17,55 @@
 
 ### 👨‍💻 About Me
 
-I am a second-year Information Technology undergraduate with a strong passion for **Cloud Computing and DevOps**, backed by solid object-oriented programming fundamentals in **Java**. I enjoy building practical software, learning modern deployment pipelines, and continuously improving my engineering skills.
+I am an Information Technology undergraduate at the **University of Moratuwa** (Faculty of Information Technology) pursuing **Software Engineering**, with a deep focus on **Cloud Architecture, DevOps, and Full-Stack Development**. 
 
-- 🎓 **Academics**: 2nd Year IT Undergraduate
-- 🛠️ **Currently Building**:
-  - **Configurable SaaS Platform** — exploring dynamic workflows, modular architecture, and multi-tenant systems.
-  - **Portfolio Website v2** — rebuilding my personal developer portfolio with modern UI design, responsiveness, and performance.
-- 💡 **Learning Through This**: Role-based access control (RBAC), building REST APIs with Node.js, React component design, and Dockerizing environments.
-- ☁️ **Passions**: Cloud platforms, DevOps culture, CI/CD automation, and Linux systems.
-- 🌱 **Technologies in Progress**: **Node.js**, **React**, **Expo**, **Docker**, and **AWS**.
-- 💬 **Ask me about**: Java, web development fundamentals, and my Cloud/DevOps learning journey.
+Starting with a strong foundation in **Java** and object-oriented architecture, my journey has evolved into designing scalable backends, responsive **Next.js & React** frontends, and automating containerized **Docker & AWS** deployment workflows.
+
+- 🎓 **Academics**: 2nd Year IT Undergraduate at University of Moratuwa (GPA: 3.80 / 4.0)
+- 🌐 **Personal Website**: [deemanthagunasekara.vercel.app](https://deemanthagunasekara.vercel.app)
+- 🛠️ **Current Focus**: Architecting **SiteTrace** — an end-to-end multi-tenant Cloud SaaS platform with automated workflows and role-based access control.
+- ☁️ **Passions**: Cloud infrastructure, CI/CD automation, Linux environments, and clean code architecture.
+- 💡 **Philosophy**: Active experimentation, understanding how systems work under the hood, and leveling up with every commit.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Featured Projects
 
-**Cloud & DevOps (Exploring & Practicing)**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,githubactions,bash&theme=dark" alt="Cloud & DevOps Skills" />
-</p>
+| Project | Tech Stack | Highlights & Links |
+| :--- | :--- | :--- |
+| **[Developer Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app) • [GitHub](https://github.com/DeemanthaGunasekara/Portfolio) |
+| **[SiteTrace — Cloud SaaS Platform](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
+| **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/Kickbots-Arena) |
+| **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/React-Movie-App) |
+| **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `React` `Tailwind CSS` | Modern collaborative frontend interface exploring structured state management and reusable component design.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/note99-frontend) |
 
-**Frameworks & Libraries (Currently Learning & Building With)**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,expo&theme=dark" alt="Learning Node.js, React, Expo" />
-</p>
+---
+
+### 🛠️ Tech Stack & Tooling
 
 **Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,c,cpp,php,html,css&theme=dark" alt="Languages" />
 </p>
 
-**Tools & Environment**  
+**Frameworks & Frontend / Backend**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,bootstrap&theme=dark" alt="Frameworks" />
+</p>
+
+**Cloud, DevOps & Systems**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,githubactions&theme=dark" alt="DevOps and Cloud" />
+</p>
+
+**Databases & Development Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,postman,figma,vscode&theme=dark" alt="Databases and Tools" />
 </p>
 
 ---
 
-### 🚀 Highlighted Repositories
-
-| Repository | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Configurable SaaS Platform** *(WIP)* | `React` `Node.js` `Docker` | Multi-tenant platform exploring dynamic user configurations, access control, and containerization. |
-| **Portfolio Website v2** *(WIP)* | `React` `TailwindCSS` | Rebuilt modern personal developer portfolio showcasing projects, tech stack, and experience. |
-| **[Kickbots-Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `Embedded` `Hardware` | Microcontroller-based hardware & robotics project. |
-| **[Web-App](https://github.com/DeemanthaGunasekara/Web-App)** | `PHP` `Backend` | Full-stack web application exploring server-side architecture and data management. |
-| **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `Web` | Collaborative frontend interface development and modern UI practices. |
-| **[My-1st-portfolio](https://github.com/DeemanthaGunasekara/My-1st-portfolio)** | `HTML/CSS` `Archive` | My first university portfolio website built to showcase web foundations. |
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak & Total Contributions" />
@@ -76,11 +75,10 @@ I am a second-year Information Technology undergraduate with a strong passion fo
 
 <div align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DeemanthaGunasekara&show_icons=true&hide_rank=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117&hide_border=true" alt="Deemantha's GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DeemanthaGunasekara&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to collaboration and internship opportunities in DevOps, Cloud Engineering, and Software Development.</sub>
+  <sub>Open to Software Engineering, Cloud, and DevOps internship opportunities and open-source collaboration.</sub>
 </div>
