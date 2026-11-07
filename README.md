@@ -33,34 +33,40 @@ Starting with a strong foundation in **Java** and object-oriented architecture, 
 
 | Project | Tech Stack | Highlights & Links |
 | :--- | :--- | :--- |
-| **[Developer Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app) • [GitHub](https://github.com/DeemanthaGunasekara/Portfolio) |
-| **[SiteTrace — Cloud SaaS Platform](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
+| **[Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app) • [GitHub](https://github.com/DeemanthaGunasekara/Portfolio) |
+| **[SiteTrace — Cloud SaaS Platform(WIP)](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
 | **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/Kickbots-Arena) |
 | **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/React-Movie-App) |
 | **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `React` `Tailwind CSS` | Modern collaborative frontend interface exploring structured state management and reusable component design.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/note99-frontend) |
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Core Stack & Foundations
 
-**Languages**  
+**Languages & Web Fundamentals**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,c,cpp,php,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,php,html,css&theme=dark" alt="Languages & Fundamentals" />
 </p>
 
-**Frameworks & Frontend / Backend**  
+**Tools & Workflow**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,tailwind,bootstrap&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools & Workflow" />
 </p>
 
-**Cloud, DevOps & Systems**  
+---
+
+### 🌱 Currently Learning & Exploring
+
+Technologies I am actively mastering through ongoing projects 
+
+**Modern Web & Frameworks**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,githubactions&theme=dark" alt="DevOps and Cloud" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Learning Modern Frontend" />
 </p>
 
-**Databases & Development Tools**  
+**Cloud, DevOps & Backend Architecture**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,postman,figma,vscode&theme=dark" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,nodejs,nestjs,postgres,figma&theme=dark" alt="Learning Cloud and DevOps" />
 </p>
 
 ---
