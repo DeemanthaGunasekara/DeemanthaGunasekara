@@ -33,11 +33,11 @@ Starting with a strong foundation in **Java** and object-oriented architecture, 
 
 | Project | Tech Stack | Highlights & Links |
 | :--- | :--- | :--- |
-| **[Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app) • [GitHub](https://github.com/DeemanthaGunasekara/Portfolio) |
+| **[Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app)|
 | **[SiteTrace — Cloud SaaS Platform(WIP)](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
-| **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/Kickbots-Arena) |
-| **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/React-Movie-App) |
-| **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `React` `Tailwind CSS` | Modern collaborative frontend interface exploring structured state management and reusable component design.<br/>👉 [GitHub](https://github.com/DeemanthaGunasekara/note99-frontend) |
+| **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.<br/>|
+| **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.<br/>|
+| **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `React` `Tailwind CSS` | Modern collaborative frontend interface exploring structured state management and reusable component design.<br/>|
 
 ---
 
