@@ -4,7 +4,7 @@
 
 ### *I learn by building things that actually work.*
 
-**IT Undergraduate @ University of Moratuwa | Software Engineering & Cloud / DevOps**
+**IT Undergraduate | University of Moratuwa | Software Engineering & Cloud / DevOps**
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemanthagunasekara.vercel.app)
 [![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square&logoColor=black&labelColor=14151A)](https://deemanthagunasekara.vercel.app/cv.pdf)
