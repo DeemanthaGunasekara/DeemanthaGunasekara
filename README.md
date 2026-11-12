@@ -23,7 +23,7 @@ Starting with a strong foundation in **Java** and object-oriented architecture, 
 
 - 🎓 **Academics**: 2nd Year IT Undergraduate at University of Moratuwa 
 - 🌐 **Personal Website**: [deemanthagunasekara.vercel.app](https://deemanthagunasekara.vercel.app)
-- 🛠️ **Current Focus**: Architecting **SiteTrace** — an end-to-end multi-tenant Cloud SaaS platform with automated workflows and role-based access control.
+- 🛠️ **Current Focus**: Architecting **SiteTrace** — an end-to-end multi-tenant Cloud SaaS platform with automated workflows and RBAC.
 - ☁️ **Passions**: Cloud infrastructure, CI/CD automation, Linux environments, and clean code architecture.
 - 💡 **Philosophy**: Active experimentation, understanding how systems work under the hood, and leveling up with every commit.
 
