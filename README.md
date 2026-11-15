@@ -6,10 +6,7 @@
 
 **IT Undergraduate | University of Moratuwa | Software Engineering & Cloud / DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemanthagunasekara.vercel.app)
-[![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square&logoColor=black&labelColor=14151A)](https://deemanthagunasekara.vercel.app/cv.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deemantha-gunasekara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekarapdvp@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemanthagunasekara.vercel.app) [![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square)](https://deemanthagunasekara.vercel.app/cv.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deemantha-gunasekara) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekarapdvp@gmail.com)
 
 </div>
 
@@ -33,12 +30,11 @@ Starting with a strong foundation in **Java** and object-oriented architecture, 
 
 | Project | Tech Stack | Highlights & Links |
 | :--- | :--- | :--- |
-| **[Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app)|
-| **[SiteTrace — Cloud SaaS Platform(WIP)](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
-| **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.<br/>|
-| **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.<br/>|
-| **[note99-frontend](https://github.com/DeemanthaGunasekara/note99-frontend)** | `TypeScript` `React` `Tailwind CSS` | Modern collaborative frontend interface exploring structured state management and reusable component design.<br/>|
-
+| **[Developer Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/>👉 [Live Site](https://deemanthagunasekara.vercel.app) 
+| **[SiteTrace — Cloud SaaS Platform (WIP)](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/>👉 [GitHub Org](https://github.com/orgs/BitSync-Level-II-Project/repositories) • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
+| **[MicroServices-WebApp (WIP)](https://github.com/DeemanthaGunasekara/MicroServices-WebApp)** | `Docker` `Kubernetes` `Node.js` `GitHub Actions` `Prometheus` | Cloud-native microservices architecture featuring containerized services, Kubernetes deployments & rolling updates, CI/CD pipeline automation, and Prometheus observability.
+| **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Microcontroller-based robotics and hardware project featuring motor drivers, sensor integration, and arena control systems.
+| **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `CSS3` | Responsive single-page application featuring real-time external API queries, dynamic search, and catalog filtering.|
 ---
 
 ### 🛠️ Core Stack & Foundations
@@ -75,12 +71,6 @@ Technologies I am actively mastering through ongoing projects
 
 <div align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak & Total Contributions" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DeemanthaGunasekara&show_icons=true&hide_rank=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117&hide_border=true" alt="Deemantha's GitHub Stats" />
 </div>
 
 ---
