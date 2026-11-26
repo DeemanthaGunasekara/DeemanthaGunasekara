@@ -6,7 +6,7 @@
 
 **IT Undergraduate | University of Moratuwa | Software Engineering & Cloud / DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemanthagunasekara.vercel.app) [![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square)](https://deemanthagunasekara.vercel.app/cv.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deemantha-gunasekara) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekarapdvp@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://deemantha.is-a.dev) [![Download CV](https://img.shields.io/badge/Download_CV-D4FF4F?style=flat-square)](https://deemantha.is-a.dev/cv.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deemantha-gunasekara) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gunasekarapdvp@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@ I am an Information Technology undergraduate at the **University of Moratuwa** (
 Starting with a strong foundation in **Java** and object-oriented architecture, my journey has evolved into designing scalable backends, responsive **Next.js & React** frontends, and automating containerized **Docker, Kubernetes & AWS** deployment workflows.
 
 - 🎓 **Academics**: 2nd Year IT Undergraduate at University of Moratuwa 
-- 🌐 **Personal Website**: [deemanthagunasekara.vercel.app](https://deemanthagunasekara.vercel.app)
+- 🌐 **Personal Website**: [deemanthagunasekara.vercel.app](https://deemantha.is-a.dev)
 - 🛠️ **Current Focus**: Architecting **SiteTrace** — an end-to-end multi-tenant Cloud SaaS platform with automated workflows and RBAC.
 - ☁️ **Passions**: Cloud infrastructure, CI/CD automation, Linux environments, and clean code architecture.
 - 💡 **Philosophy**: Active experimentation, understanding how systems work under the hood, and leveling up with every commit.
@@ -33,7 +33,7 @@ Starting with a strong foundation in **Java** and object-oriented architecture, 
 | **[SiteTrace — Cloud SaaS Platform (WIP)](https://github.com/orgs/BitSync-Level-II-Project/repositories)** | `Nest.js` `React` `Expo` `TypeScript` `PostgreSQL` `Docker` | Multi-tenant SaaS platform built to streamline workflows with automated background jobs, secure RBAC, and responsive web & mobile dashboards.<br/> • [Architecture Case Study](https://dms.uom.lk/s/Y6YjreExnzTb7H8) |
 | **[Kickbots Arena](https://github.com/DeemanthaGunasekara/Kickbots-Arena)** | `C / Embedded` `Microcontrollers` `Hardware Design` | Robotic football system featuring Arduino robot cars, wireless RF communication, automated IR goal detection, and ESP32 web interface.<br/> |
 | **[cloud-native-microservices-platform](https://github.com/DeemanthaGunasekara/MicroServices-WebApp)** | `Docker` `Kubernetes` `Node.js` `GitHub Actions` `Prometheus` | Cloud-native microservices architecture featuring containerized services, Kubernetes deployments & rolling updates, CI/CD pipeline automation, and Prometheus & Grafana observability.<br/> |
-| **[Developer Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/> [Live Site](https://deemanthagunasekara.vercel.app)   |
+| **[Developer Portfolio Website](https://github.com/DeemanthaGunasekara/Portfolio)** | `Next.js 14` `TypeScript` `Tailwind CSS` `Figma` `Vercel` | Custom-designed in Figma with high-contrast editorial dark mode, zero CLS typography, and static build optimization.<br/> [Live Site](https://deemantha.is-a.dev)   |
 | **[React Movie Hub](https://github.com/DeemanthaGunasekara/React-Movie-App)** | `React` `REST APIs` `JavaScript` `Docker` | Responsive single-page movie discovery app featuring real-time TMDB API queries, persistent favorites, and Docker/Nginx containerization.<br/> |
 
 ---
