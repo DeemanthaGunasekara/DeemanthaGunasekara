@@ -19,7 +19,7 @@ I am an Information Technology undergraduate at the **University of Moratuwa** (
 Starting with a strong foundation in **Java** and object-oriented architecture, my journey has evolved into designing scalable backends, responsive **Next.js & React** frontends, and automating containerized **Docker, Kubernetes & AWS** deployment workflows.
 
 - 🎓 **Academics**: 2nd Year IT Undergraduate at University of Moratuwa 
-- 🌐 **Personal Website**: [deemanthagunasekara.vercel.app](https://deemantha.is-a.dev)
+- 🌐 **Personal Website**: [https://deemantha.is-a.dev](https://deemantha.is-a.dev)
 - 🛠️ **Current Focus**: Architecting **SiteTrace** — an end-to-end multi-tenant Cloud SaaS platform with automated workflows and RBAC.
 - ☁️ **Passions**: Cloud infrastructure, CI/CD automation, Linux environments, and clean code architecture.
 - 💡 **Philosophy**: Active experimentation, understanding how systems work under the hood, and leveling up with every commit.
